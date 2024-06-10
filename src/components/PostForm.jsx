@@ -1,6 +1,5 @@
 import { useForm } from "react-hook-form";
 import { useQuery, useMutation, useQueryClient } from "@tanstack/react-query";
-useNavigate;
 import { addUser } from "../services/api";
 import {  useNavigate } from "react-router-dom";
 
